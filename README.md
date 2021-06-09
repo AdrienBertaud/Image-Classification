@@ -1,6 +1,6 @@
 # EPFL - Artificial Neural Networks
 
-## Course Miniproject 02
+## Course Miniproject 02 - Image Classification
 by
 * Jan Bauer (18-764-571)
 * Adrien Bertaud (Sciper 324795)
